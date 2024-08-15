@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
+<h2 align="center">Hi there 👋, Welcome to my Introduction Page!</h2>
 <ul>
   <li>I'm Ankush Thakur, a Software Engineer having 8+ years of experience working in various domains like full stack, machine learning, backend and data engineering.</li>
   <li>Location : Ireland</a></li>
