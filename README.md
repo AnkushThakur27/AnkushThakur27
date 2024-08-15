@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <ul>
   <li>I'm Ankush Thakur, a Software Engineer having 8+ years of experience working in various domains like full stack, machine learning, backend and data engineering.</li>
   <li>Location : Ireland</a></li>
-  <li>Location : Application Developer</a></li>
+  <li>Role : Application Developer</a></li>
   <li>Checkout my GitHub repositories on <a href = "https://github.com/AnkushThakur27/">System Design</a></li>
   <li>Checkout my Linkdin <a href="https://www.linkedin.com/in/ankush-thakur-900637ab/">YouTube Channel</a> for more in-depth content.</li>
 </ul>
